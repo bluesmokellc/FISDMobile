@@ -11,4 +11,7 @@
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
+    <preference name="ios-statusbarstyle" value="black-opaque" />
+
+    <icon src="images/demo_content/metroentrance1.jpg" />
 </widget>
