@@ -7,10 +7,16 @@
     <author email="jim@bluesmokellc.net" href="http://bluesmokellc.net">
         Coconnect
     </author>
+
     <content src="index.html" />
+    
     <access origin="*" />
+
+    <gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" />
+    
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="ios-statusbarstyle" value="black-opaque" />
     
     <icon src="icon.png" />
