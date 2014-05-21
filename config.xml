@@ -12,9 +12,7 @@
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
     <preference name="ios-statusbarstyle" value="black-opaque" />
-
     <icon src="icon.png" />
-
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-ldpi" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-mdpi" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-hdpi" />
@@ -26,7 +24,5 @@
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-1536x2008.png" gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-1496x2048.png" gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="winphone" />
-
-    
 
 </widget>
